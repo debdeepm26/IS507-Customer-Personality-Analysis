@@ -4,9 +4,10 @@
 
 ## Group 3 Work Distribution
 
-* Data Engineering + Modelling -> Debdeep
-* PCA -> Shardul
-* PCA + Modelling -> Neha
-* CFA -> Kirti
-* CCA -> Richard
-* CA ->  Sanmil
+* EDA -> Debdeep
+* Modelling + KMeans -> Debdeep
+* PCA + (PCA + KMeans) -> Shardul
+* (PCA + Modelling) + Hierarchical -> Neha
+* CFA + (PCA + Hierarchical) -> Kirti
+* CCA + Density -> Richard
+* CA + (PCA + Density) ->  Sanmil
